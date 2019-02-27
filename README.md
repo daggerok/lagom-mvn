@@ -1,7 +1,7 @@
 # generate lagom maven project
 One more Lagom java maven getting started project...
 
-# EASY AS 1-2-3
+# easy as 1-2-3
 
 ```bash
 mvn archetype:generate  -DarchetypeGroupId=com.lightbend.lagom \

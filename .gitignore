@@ -1,7 +1,7 @@
-target
+target/
 ideatarget
 .target
-bin
+bin/
 .cache
 .cache-main
 .cache-tests
@@ -11,5 +11,9 @@ bin
 .factorypath
 .settings
 logs
-.idea
+.idea/
 *.iml
+*.ipr
+*.iws
+*.log*
+.DS_Store
